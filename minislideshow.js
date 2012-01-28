@@ -1,11 +1,11 @@
 /*!
  * jQuery plugin
- * http://www.stefanocicatiello.com
- * Copyright (c) 2012 S.Cicatiello
+ * https://github.com/cichys/minislideshow
+ * Copyright (c) 2012 Stefano Cicatiello
  * Version: 0.1 (01/27/2012)
  * Licensed under the MIT license:
  * http://www.opensource.org/licenses/mit-license.php
- * Requires: jQuery v1.3.0 or later
+ * Requires: jQuery v1.4.0 or later
  */
 
 $.fn.minislideshow = function(options) {
