@@ -1,3 +1,5 @@
+## minislideshow
+
 Lightweight jQuery plugin for simple slideshow. Only 1kb
 
 
@@ -11,3 +13,5 @@ Lightweight jQuery plugin for simple slideshow. Only 1kb
 		<img src="img/img3.jpg" alt="" />
 		
 	</div>
+
+
